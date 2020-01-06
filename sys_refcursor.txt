@@ -1,0 +1,12 @@
+create function get_data ( type varchar2 ) return sys_refcursor as
+  ret_cur sys_refcursor;
+begin
+
+  if type = 'EMP' then
+    open ret_cur for select * from emp;
+  elsif type = 'DEPT' then
+    open ret_cur for select * from dept;
+  end if;
+
+  return ret_cur;
+end;

@@ -1,0 +1,37 @@
+Question:-
+1). What kind of change request u do in ur project ?
+
+Ans:- Ya we are having multiple interfaces and currenctly we are removing all interfaces and converting into one interfaces.
+
+2).What type of interface you have ?
+
+Ans:- Ya here we are having mulltiple interfaces all like asset class in this case we are deling with certain kind of changes.
+
+* We are using multiple interfaces so currently we are merging the interfaces into one single interfaces for that it will give more performance and more productivity part of that i am working as a developer.
+
+3). What type of work you have ?
+
+Ans:- Alreday there are existing module in that module certain requeirments are there to create some objects as per the analysis , like that we are changing the object writing the object creating the object that i do.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
