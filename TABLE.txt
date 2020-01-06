@@ -1,4 +1,8 @@
 
+====================================
+Table creation done by anil kumar bhaisa
+==========================================
+
 CREATE TABLE UNICREDIT_TRANS_TAB
 (
 TID_NO NUMBER(10),
